@@ -1,0 +1,3 @@
+// actionTypes.js
+export const SET_BOOKED_SEATS = 'SET_BOOKED_SEATS';
+export const SET_SELECTED_SHOWTIME = 'SET_SELECTED_SHOWTIME';
